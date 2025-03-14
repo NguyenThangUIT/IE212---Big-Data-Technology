@@ -1,0 +1,968 @@
+[{
+  "_id": {
+    "$oid": "679187481a6b8de1c471b450"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 11.75,
+    "humidity_air": 51,
+    "pressure": 1031,
+    "soil_moisture": 0.061,
+    "timestamp": "2025-01-22T02:32:55.938689"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 3.73°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 42.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:20.110768"
+},
+{
+  "_id": {
+    "$oid": "679187481a6b8de1c471b451"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 11.41,
+    "humidity_air": 54,
+    "pressure": 1031,
+    "soil_moisture": 0.061,
+    "timestamp": "2025-01-22T03:02:58.377756"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 4.07°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 45.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:20.377770"
+},
+{
+  "_id": {
+    "$oid": "679187481a6b8de1c471b452"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 11.19,
+    "humidity_air": 55,
+    "pressure": 1031,
+    "soil_moisture": 0.061,
+    "timestamp": "2025-01-22T03:33:00.431520"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 4.29°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 46.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:20.577922"
+},
+{
+  "_id": {
+    "$oid": "679187481a6b8de1c471b453"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 10.99,
+    "humidity_air": 57,
+    "pressure": 1031,
+    "soil_moisture": 0.061,
+    "timestamp": "2025-01-22T04:03:02.596965"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 4.49°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 48.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:20.783801"
+},
+{
+  "_id": {
+    "$oid": "679187481a6b8de1c471b454"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 10.76,
+    "humidity_air": 58,
+    "pressure": 1031,
+    "soil_moisture": 0.061,
+    "timestamp": "2025-01-22T04:33:04.471845"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 4.72°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 49.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:20.973832"
+},
+{
+  "_id": {
+    "$oid": "679187491a6b8de1c471b455"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 10.84,
+    "humidity_air": 58,
+    "pressure": 1031,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T05:03:06.497211"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 4.64°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 49.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:21.160904"
+},
+{
+  "_id": {
+    "$oid": "679187491a6b8de1c471b456"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 10.32,
+    "humidity_air": 60,
+    "pressure": 1031,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T05:33:08.433692"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 5.16°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 51.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:21.318475"
+},
+{
+  "_id": {
+    "$oid": "679187491a6b8de1c471b457"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 10.21,
+    "humidity_air": 60,
+    "pressure": 1031,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T06:03:10.548123"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 5.27°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 51.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:21.489034"
+},
+{
+  "_id": {
+    "$oid": "679187491a6b8de1c471b458"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 9.94,
+    "humidity_air": 61,
+    "pressure": 1031,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T06:33:12.662515"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 5.54°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 52.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.92 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:21.640042"
+},
+{
+  "_id": {
+    "$oid": "679187491a6b8de1c471b459"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 9.66,
+    "humidity_air": 62,
+    "pressure": 1030,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T07:03:14.703843"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 5.82°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 53.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.99 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:21.782891"
+},
+{
+  "_id": {
+    "$oid": "679187491a6b8de1c471b45a"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 9.46,
+    "humidity_air": 64,
+    "pressure": 1030,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T07:33:17.134171"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 6.02°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 55.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.99 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:21.933482"
+},
+{
+  "_id": {
+    "$oid": "6791874a1a6b8de1c471b45b"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 9.43,
+    "humidity_air": 65,
+    "pressure": 1030,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T08:03:19.563236"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 6.05°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 56.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.99 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:22.090511"
+},
+{
+  "_id": {
+    "$oid": "6791874a1a6b8de1c471b45c"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 9.16,
+    "humidity_air": 67,
+    "pressure": 1030,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T08:33:21.779123"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 6.32°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 58.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.99 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:22.228510"
+},
+{
+  "_id": {
+    "$oid": "6791874a1a6b8de1c471b45d"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 9.09,
+    "humidity_air": 67,
+    "pressure": 1030,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T09:03:24.121605"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 6.39°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 58.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 0.99 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:22.370514"
+},
+{
+  "_id": {
+    "$oid": "6791874a1a6b8de1c471b45e"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 8.85,
+    "humidity_air": 69,
+    "pressure": 1029,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T09:33:26.181581"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 6.63°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 60.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:22.524339"
+},
+{
+  "_id": {
+    "$oid": "6791874a1a6b8de1c471b45f"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 8.56,
+    "humidity_air": 70,
+    "pressure": 1029,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T10:03:28.217807"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 6.92°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 61.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:22.659898"
+},
+{
+  "_id": {
+    "$oid": "6791874a1a6b8de1c471b460"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 8.34,
+    "humidity_air": 71,
+    "pressure": 1029,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T10:33:30.180078"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.14°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 62.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:22.790848"
+},
+{
+  "_id": {
+    "$oid": "6791874a1a6b8de1c471b461"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 8.22,
+    "humidity_air": 71,
+    "pressure": 1029,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T11:03:33.313486"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.26°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 62.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:22.917873"
+},
+{
+  "_id": {
+    "$oid": "6791874b1a6b8de1c471b462"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.85,
+    "humidity_air": 71,
+    "pressure": 1029,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T11:33:35.644983"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.63°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 62.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:23.042121"
+},
+{
+  "_id": {
+    "$oid": "6791874b1a6b8de1c471b463"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.78,
+    "humidity_air": 72,
+    "pressure": 1029,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T12:03:37.995859"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.70°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 63.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:23.166780"
+},
+{
+  "_id": {
+    "$oid": "6791874b1a6b8de1c471b464"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.94,
+    "humidity_air": 71,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T12:33:40.227484"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.54°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 62.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:23.290835"
+},
+{
+  "_id": {
+    "$oid": "6791874b1a6b8de1c471b465"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.62,
+    "humidity_air": 71,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T13:03:42.420023"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.86°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 62.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:23.413880"
+},
+{
+  "_id": {
+    "$oid": "6791874b1a6b8de1c471b466"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.68,
+    "humidity_air": 72,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T13:33:44.514573"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.80°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 63.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:23.556495"
+},
+{
+  "_id": {
+    "$oid": "6791874b1a6b8de1c471b467"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.64,
+    "humidity_air": 71,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T14:03:46.474465"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.84°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 62.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:23.698022"
+},
+{
+  "_id": {
+    "$oid": "6791874b1a6b8de1c471b468"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.42,
+    "humidity_air": 74,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T14:33:48.619944"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 8.06°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 65.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:23.820575"
+},
+{
+  "_id": {
+    "$oid": "6791874b1a6b8de1c471b469"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.28,
+    "humidity_air": 74,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T15:03:50.756095"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 8.20°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 65.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:23.945559"
+},
+{
+  "_id": {
+    "$oid": "6791874c1a6b8de1c471b46a"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.25,
+    "humidity_air": 75,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T15:33:53.008451"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 8.23°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 66.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:24.063888"
+},
+{
+  "_id": {
+    "$oid": "6791874c1a6b8de1c471b46b"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 7.66,
+    "humidity_air": 75,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T16:03:55.171827"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 7.82°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 66.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:24.182256"
+},
+{
+  "_id": {
+    "$oid": "6791874c1a6b8de1c471b46c"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 8.58,
+    "humidity_air": 75,
+    "pressure": 1028,
+    "soil_moisture": 0.065,
+    "timestamp": "2025-01-22T16:33:57.311571"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 6.90°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 66.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:24.306373"
+},
+{
+  "_id": {
+    "$oid": "6791874c1a6b8de1c471b46d"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 9.31,
+    "humidity_air": 73,
+    "pressure": 1028,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T17:03:59.490700"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 6.17°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 64.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:24.410441"
+},
+{
+  "_id": {
+    "$oid": "6791874c1a6b8de1c471b46e"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 10.04,
+    "humidity_air": 70,
+    "pressure": 1028,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T17:34:01.534789"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 5.44°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 61.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:24.550852"
+},
+{
+  "_id": {
+    "$oid": "6791874c1a6b8de1c471b46f"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 11.32,
+    "humidity_air": 65,
+    "pressure": 1028,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T18:04:03.642479"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 4.16°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 56.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:24.689405"
+},
+{
+  "_id": {
+    "$oid": "6791874c1a6b8de1c471b470"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 13.02,
+    "humidity_air": 58,
+    "pressure": 1029,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T18:34:05.734510"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 2.46°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 49.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:24.813735"
+},
+{
+  "_id": {
+    "$oid": "6791874c1a6b8de1c471b471"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 13.59,
+    "humidity_air": 54,
+    "pressure": 1029,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T19:04:07.707006"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 1.89°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 45.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:24.930982"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b472"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 13.99,
+    "humidity_air": 50,
+    "pressure": 1029,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T19:34:09.673160"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 1.49°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 41.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.07 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.064907"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b473"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 15.03,
+    "humidity_air": 46,
+    "pressure": 1028,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T20:04:11.872863"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ tăng 0.45°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 37.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.14 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.168893"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b474"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 15.68,
+    "humidity_air": 43,
+    "pressure": 1027,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T20:34:13.829842"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ giảm 0.20°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 34.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.22 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.280429"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b475"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 16.03,
+    "humidity_air": 42,
+    "pressure": 1027,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T21:04:15.702807"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ giảm 0.55°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 33.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.22 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.405260"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b476"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 16.5,
+    "humidity_air": 40,
+    "pressure": 1026,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T21:34:17.732464"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ giảm 1.02°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 31.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.29 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.513091"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b477"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 16.97,
+    "humidity_air": 39,
+    "pressure": 1026,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T22:04:19.641979"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ giảm 1.49°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 30.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.29 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.620636"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b478"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 17.22,
+    "humidity_air": 40,
+    "pressure": 1026,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T22:34:21.604738"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ giảm 1.74°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 31.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.29 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.720192"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b479"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 17.32,
+    "humidity_air": 39,
+    "pressure": 1025,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T23:04:23.878547"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ giảm 1.84°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 30.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.37 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.813403"
+},
+{
+  "_id": {
+    "$oid": "6791874d1a6b8de1c471b47a"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 17,
+    "humidity_air": 42,
+    "pressure": 1025,
+    "soil_moisture": 0.042,
+    "timestamp": "2025-01-22T23:34:25.780877"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ giảm 1.52°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 33.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.37 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.69%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:03:25.946249"
+},
+{
+  "_id": {
+    "$oid": "6791878b1a6b8de1c471b47b"
+  },
+  "crop": "Cây Dagussa",
+  "soil_type": "Nâu",
+  "actual_data": {
+    "temperature": 16.4,
+    "humidity_air": 46,
+    "pressure": 1025,
+    "soil_moisture": 0.063,
+    "timestamp": "2025-01-23T00:04:27.845517"
+  },
+  "recommendations": {
+    "temperature": "Điều chỉnh nhiệt độ giảm 0.92°C.",
+    "humidity_air": "Điều chỉnh độ ẩm không khí giảm 37.09%.",
+    "pressure": "Điều chỉnh áp suất tăng 1.37 cmHG.",
+    "soil_moisture": "Điều chỉnh độ ẩm đất tăng 0.67%.",
+    "irrigation": "Tưới 229.33 m³ nước/ha/ngày."
+  },
+  "timestamp": "2025-01-23T07:04:27.953332"
+}]

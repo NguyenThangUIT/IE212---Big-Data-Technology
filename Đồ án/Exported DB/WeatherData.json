@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "679058dd87d8dc682a77c9d7"
+  },
+  "temperature": 11.75,
+  "humidity_air": 51,
+  "pressure": 1031,
+  "soil_moisture": 0.061,
+  "timestamp": "2025-01-22T02:32:55.938689"
+},
+{
+  "_id": {
+    "$oid": "67905fe287d8dc682a77c9d8"
+  },
+  "temperature": 11.41,
+  "humidity_air": 54,
+  "pressure": 1031,
+  "soil_moisture": 0.061,
+  "timestamp": "2025-01-22T03:02:58.377756"
+},
+{
+  "_id": {
+    "$oid": "679066ec87d8dc682a77c9d9"
+  },
+  "temperature": 11.19,
+  "humidity_air": 55,
+  "pressure": 1031,
+  "soil_moisture": 0.061,
+  "timestamp": "2025-01-22T03:33:00.431520"
+},
+{
+  "_id": {
+    "$oid": "67906df687d8dc682a77c9da"
+  },
+  "temperature": 10.99,
+  "humidity_air": 57,
+  "pressure": 1031,
+  "soil_moisture": 0.061,
+  "timestamp": "2025-01-22T04:03:02.596965"
+},
+{
+  "_id": {
+    "$oid": "6790750087d8dc682a77c9db"
+  },
+  "temperature": 10.76,
+  "humidity_air": 58,
+  "pressure": 1031,
+  "soil_moisture": 0.061,
+  "timestamp": "2025-01-22T04:33:04.471845"
+},
+{
+  "_id": {
+    "$oid": "67907c0a87d8dc682a77c9dc"
+  },
+  "temperature": 10.84,
+  "humidity_air": 58,
+  "pressure": 1031,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T05:03:06.497211"
+},
+{
+  "_id": {
+    "$oid": "6790831487d8dc682a77c9dd"
+  },
+  "temperature": 10.32,
+  "humidity_air": 60,
+  "pressure": 1031,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T05:33:08.433692"
+},
+{
+  "_id": {
+    "$oid": "67908a1e87d8dc682a77c9de"
+  },
+  "temperature": 10.21,
+  "humidity_air": 60,
+  "pressure": 1031,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T06:03:10.548123"
+},
+{
+  "_id": {
+    "$oid": "6790912887d8dc682a77c9df"
+  },
+  "temperature": 9.94,
+  "humidity_air": 61,
+  "pressure": 1031,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T06:33:12.662515"
+},
+{
+  "_id": {
+    "$oid": "6790983287d8dc682a77c9e0"
+  },
+  "temperature": 9.66,
+  "humidity_air": 62,
+  "pressure": 1030,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T07:03:14.703843"
+},
+{
+  "_id": {
+    "$oid": "67909f3d87d8dc682a77c9e1"
+  },
+  "temperature": 9.46,
+  "humidity_air": 64,
+  "pressure": 1030,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T07:33:17.134171"
+},
+{
+  "_id": {
+    "$oid": "6790a64787d8dc682a77c9e2"
+  },
+  "temperature": 9.43,
+  "humidity_air": 65,
+  "pressure": 1030,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T08:03:19.563236"
+},
+{
+  "_id": {
+    "$oid": "6790ad5187d8dc682a77c9e3"
+  },
+  "temperature": 9.16,
+  "humidity_air": 67,
+  "pressure": 1030,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T08:33:21.779123"
+},
+{
+  "_id": {
+    "$oid": "6790b45c87d8dc682a77c9e4"
+  },
+  "temperature": 9.09,
+  "humidity_air": 67,
+  "pressure": 1030,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T09:03:24.121605"
+},
+{
+  "_id": {
+    "$oid": "6790bb6687d8dc682a77c9e5"
+  },
+  "temperature": 8.85,
+  "humidity_air": 69,
+  "pressure": 1029,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T09:33:26.181581"
+},
+{
+  "_id": {
+    "$oid": "6790c27087d8dc682a77c9e6"
+  },
+  "temperature": 8.56,
+  "humidity_air": 70,
+  "pressure": 1029,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T10:03:28.217807"
+},
+{
+  "_id": {
+    "$oid": "6790c97a87d8dc682a77c9e7"
+  },
+  "temperature": 8.34,
+  "humidity_air": 71,
+  "pressure": 1029,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T10:33:30.180078"
+},
+{
+  "_id": {
+    "$oid": "6790d08587d8dc682a77c9e8"
+  },
+  "temperature": 8.22,
+  "humidity_air": 71,
+  "pressure": 1029,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T11:03:33.313486"
+},
+{
+  "_id": {
+    "$oid": "6790d78f87d8dc682a77c9e9"
+  },
+  "temperature": 7.85,
+  "humidity_air": 71,
+  "pressure": 1029,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T11:33:35.644983"
+},
+{
+  "_id": {
+    "$oid": "6790de9987d8dc682a77c9ea"
+  },
+  "temperature": 7.78,
+  "humidity_air": 72,
+  "pressure": 1029,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T12:03:37.995859"
+},
+{
+  "_id": {
+    "$oid": "6790e5a487d8dc682a77c9eb"
+  },
+  "temperature": 7.94,
+  "humidity_air": 71,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T12:33:40.227484"
+},
+{
+  "_id": {
+    "$oid": "6790ecae87d8dc682a77c9ec"
+  },
+  "temperature": 7.62,
+  "humidity_air": 71,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T13:03:42.420023"
+},
+{
+  "_id": {
+    "$oid": "6790f3b887d8dc682a77c9ed"
+  },
+  "temperature": 7.68,
+  "humidity_air": 72,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T13:33:44.514573"
+},
+{
+  "_id": {
+    "$oid": "6790fac287d8dc682a77c9ee"
+  },
+  "temperature": 7.64,
+  "humidity_air": 71,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T14:03:46.474465"
+},
+{
+  "_id": {
+    "$oid": "679101cc87d8dc682a77c9ef"
+  },
+  "temperature": 7.42,
+  "humidity_air": 74,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T14:33:48.619944"
+},
+{
+  "_id": {
+    "$oid": "679108d687d8dc682a77c9f0"
+  },
+  "temperature": 7.28,
+  "humidity_air": 74,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T15:03:50.756095"
+},
+{
+  "_id": {
+    "$oid": "67910fe187d8dc682a77c9f1"
+  },
+  "temperature": 7.25,
+  "humidity_air": 75,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T15:33:53.008451"
+},
+{
+  "_id": {
+    "$oid": "679116eb87d8dc682a77c9f2"
+  },
+  "temperature": 7.66,
+  "humidity_air": 75,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T16:03:55.171827"
+},
+{
+  "_id": {
+    "$oid": "67911df587d8dc682a77c9f3"
+  },
+  "temperature": 8.58,
+  "humidity_air": 75,
+  "pressure": 1028,
+  "soil_moisture": 0.065,
+  "timestamp": "2025-01-22T16:33:57.311571"
+},
+{
+  "_id": {
+    "$oid": "679124ff87d8dc682a77c9f4"
+  },
+  "temperature": 9.31,
+  "humidity_air": 73,
+  "pressure": 1028,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T17:03:59.490700"
+},
+{
+  "_id": {
+    "$oid": "67912c0987d8dc682a77c9f5"
+  },
+  "temperature": 10.04,
+  "humidity_air": 70,
+  "pressure": 1028,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T17:34:01.534789"
+},
+{
+  "_id": {
+    "$oid": "6791331387d8dc682a77c9f6"
+  },
+  "temperature": 11.32,
+  "humidity_air": 65,
+  "pressure": 1028,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T18:04:03.642479"
+},
+{
+  "_id": {
+    "$oid": "67913a1d87d8dc682a77c9f7"
+  },
+  "temperature": 13.02,
+  "humidity_air": 58,
+  "pressure": 1029,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T18:34:05.734510"
+},
+{
+  "_id": {
+    "$oid": "6791412787d8dc682a77c9f8"
+  },
+  "temperature": 13.59,
+  "humidity_air": 54,
+  "pressure": 1029,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T19:04:07.707006"
+},
+{
+  "_id": {
+    "$oid": "6791483187d8dc682a77c9fa"
+  },
+  "temperature": 13.99,
+  "humidity_air": 50,
+  "pressure": 1029,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T19:34:09.673160"
+},
+{
+  "_id": {
+    "$oid": "67914f3b87d8dc682a77c9fb"
+  },
+  "temperature": 15.03,
+  "humidity_air": 46,
+  "pressure": 1028,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T20:04:11.872863"
+},
+{
+  "_id": {
+    "$oid": "6791564587d8dc682a77c9fc"
+  },
+  "temperature": 15.68,
+  "humidity_air": 43,
+  "pressure": 1027,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T20:34:13.829842"
+},
+{
+  "_id": {
+    "$oid": "67915d4f87d8dc682a77c9fd"
+  },
+  "temperature": 16.03,
+  "humidity_air": 42,
+  "pressure": 1027,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T21:04:15.702807"
+},
+{
+  "_id": {
+    "$oid": "6791645987d8dc682a77c9fe"
+  },
+  "temperature": 16.5,
+  "humidity_air": 40,
+  "pressure": 1026,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T21:34:17.732464"
+},
+{
+  "_id": {
+    "$oid": "67916b6387d8dc682a77c9ff"
+  },
+  "temperature": 16.97,
+  "humidity_air": 39,
+  "pressure": 1026,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T22:04:19.641979"
+},
+{
+  "_id": {
+    "$oid": "6791726d87d8dc682a77ca00"
+  },
+  "temperature": 17.22,
+  "humidity_air": 40,
+  "pressure": 1026,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T22:34:21.604738"
+},
+{
+  "_id": {
+    "$oid": "6791797787d8dc682a77ca01"
+  },
+  "temperature": 17.32,
+  "humidity_air": 39,
+  "pressure": 1025,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T23:04:23.878547"
+},
+{
+  "_id": {
+    "$oid": "6791808187d8dc682a77ca02"
+  },
+  "temperature": 17,
+  "humidity_air": 42,
+  "pressure": 1025,
+  "soil_moisture": 0.042,
+  "timestamp": "2025-01-22T23:34:25.780877"
+},
+{
+  "_id": {
+    "$oid": "6791878b87d8dc682a77ca03"
+  },
+  "temperature": 16.4,
+  "humidity_air": 46,
+  "pressure": 1025,
+  "soil_moisture": 0.063,
+  "timestamp": "2025-01-23T00:04:27.845517"
+}]
